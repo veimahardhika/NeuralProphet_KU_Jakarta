@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  NeuralProphet Model for Predicting Jakarta Air Quality
+  2017-2021
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Veimas
+    family-names: Pramuji
+    email: vei.mahardhika@gmail.com
+    affiliation: >-
+      Sekolah Tinggi Meteorologi Klimatologi dan Geofisika
+      (STMKG)
+  - given-names: Fransisco
+    family-names: Siahaan
+    affiliation: >-
+      Sekolah Tinggi Meteorologi Klimatologi dan Geofisika
+      (STMKG)
+repository-code: 'https://github.com/veimahardhika/NeuralProphet_KU_Jakarta'
